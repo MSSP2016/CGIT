@@ -10,6 +10,7 @@ namespace CGIT
     {
         static void Main(string[] args)
         {
+            var myVar = "String var!";
             Console.Read();
         }
     }
