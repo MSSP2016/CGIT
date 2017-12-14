@@ -11,6 +11,7 @@ namespace CGIT
         static void Main(string[] args)
         {
             var myVar = "String var!";
+            var stringTwo = "oh! it's new string";
             Console.Read();
         }
     }
